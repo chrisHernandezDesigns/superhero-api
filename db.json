@@ -1,0 +1,44 @@
+{
+    "superheros":
+    [
+        {
+            "id": 0,
+            "name": "Captain America",
+            "alias": "Steve Rogers",
+            "powers": "Super-Solider Serum",
+            "weapons": ["Shield", "Uniform"],
+            "stats": 
+            [
+                {
+                "intelligence": "85",
+                "strength": "25",
+                "speed": "25",
+                "durability": "20",
+                "power": "40",
+                "combat": "100",
+                "tier": "1"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Iron Man",
+            "alias": "Tony Stark",
+            "powers": ["Direct Cybernetic Interface", "Wireless Communication" ,"Superhuman Reflexes", "Regenerative Systems", "Minor Shapeshifting"],
+            "weapons": ["Repulsor Rays", "Unibeam", "Lasers", "Pulse Bolts", "Energy Blade"],
+            "stats": 
+            [
+                {
+                "intelligence": "90",
+                "strength": "75",
+                "speed": "50",
+                "durability": "60",
+                "power": "80",
+                "combat": "70",
+                "tier": "4"
+                }
+            ]
+        }
+    ]
+
+}
